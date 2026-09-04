@@ -20,4 +20,5 @@
 [btop][1.4.7][https://github.com/aristocratos/btop][https://raw.githubusercontent.com/Katyusha-Proyect/katyusha-packages/main/packages/cli-tools/btop-1.4.7/btop-1.4.7.tar.gz][Modern resource monitor for the terminal]
 
 # UNRAR 7.20 has been added to the Katyusha binary repository.
-[unrar][1.4.7][https://www.rarlab.com][https://raw.githubusercontent.com/Katyusha-Proyect/katyusha-packages/main/packages/utils/unrar-7.20/unrar-7.20.tar.gz][Command-line utility to extract RAR files]
+[unrar][7.20][https://www.rarlab.com][https://raw.githubusercontent.com/Katyusha-Proyect/katyusha-packages/main/packages/utils/unrar-7.20/unrar-7.20.tar.gz][Command-line utility to extract RAR files]
+# Wait, I'm a fucking idiot and put unrar 1.4.7 instead of unrar 7.20. Sorry.
