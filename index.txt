@@ -22,3 +22,6 @@
 # UNRAR 7.20 has been added to the Katyusha binary repository.
 [unrar][7.20][https://www.rarlab.com][https://raw.githubusercontent.com/Katyusha-Proyect/katyusha-packages/main/packages/utils/unrar-7.20/unrar-7.20.tar.gz][Command-line utility to extract RAR files]
 # Wait, I'm a fucking idiot and put unrar 1.4.7 instead of unrar 7.20. Sorry.
+
+# I'm about to cut my balls off; I don't know how to compile Python, so I guess I'll just use NASM instead.
+[nasm][3.02][https://www.nasm.us][https://raw.githubusercontent.com/Katyusha-Proyect/katyusha-packages/main/packages/programming/compilators/nasm-3.02/nasm-3.02.tar.gz][Netwide Assembler for x86 architecture.]
