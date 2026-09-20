@@ -25,3 +25,6 @@
 
 # I'm about to cut my balls off; I don't know how to compile Python, so I guess I'll just use NASM instead.
 [nasm][3.02][https://www.nasm.us][https://raw.githubusercontent.com/Katyusha-Proyect/katyusha-packages/main/packages/programming/compilators/nasm-3.02/nasm-3.02.tar.gz][Netwide Assembler for x86 architecture.]
+
+# Hello-World
+[hello-world][0.1][...][https://raw.githubusercontent.com/Katyusha-Proyect/katyusha-packages/main/packages/hello-world/hello-world-0.1.tar.gz][Hello World in C]
