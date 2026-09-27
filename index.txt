@@ -28,3 +28,6 @@
 
 # Hello-World
 [hello-world][0.1][...][https://raw.githubusercontent.com/Katyusha-Proyect/katyusha-packages/main/packages/hello-world/hello-world-0.1.tar.gz][Hello World in C]
+
+[steplauncheramd64][2.5.0][https://steplauncher.pages.dev][https://raw.githubusercontent.com/Katyusha-Project/katyusha-packages/main/packages/games/minecraft/launcher/steplauncher-v2.5.0-linux-amd64.tar.gz]
+[steplauncherarm64][2.5.0][https://steplauncher.pages.dev][https://raw.githubusercontent.com/Katyusha-Project/katyusha-packages/main/packages/games/minecraft/launcher/steplauncher-v2.5.0-linux-arm64.tar.gz]
