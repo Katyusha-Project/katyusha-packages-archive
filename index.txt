@@ -34,6 +34,7 @@
 [steplauncherarm64][2.5.0][https://steplauncher.pages.dev][https://raw.githubusercontent.com/Katyusha-Project/katyusha-packages/main/packages/games/minecraft/launcher/steplauncher-v2.5.0-linux-arm64.tar.gz][Minecraft Launcher in GO + Wails]
 
 # Neovim 0.12.5
-[nvim][0.12.5][https://neovim.io][https://raw.githubusercontent.com/Katyusha-Project/katyusha-packages/main/packages/editors/ides/nvim-linux-x86_64.tar.gz][IDE source code]
+[nvim][0.12.5][https://neovim.io][https://raw.githubusercontent.com/Katyusha-Project/katyusha-packages/main/packages/editors/text/nvim-0.12.5.tar.gz][Advanced Text Editor]
 
 # Vim 9.2.1025
+[vim][9.2.1025][https://www.vim.org][https://raw.githubusercontent.com/Katyusha-Project/katyusha-packages/main/packages/editors/text/vim-9.2.1025.tar.gz][Advanced Text Editor]
