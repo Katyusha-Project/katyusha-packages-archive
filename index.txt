@@ -38,6 +38,3 @@
 
 # Vim 9.2.1025
 [vim][9.2.1025][https://www.vim.org][https://raw.githubusercontent.com/Katyusha-Project/katyusha-packages/main/packages/editors/text/vim-9.2.1025.tar.gz][Advanced Text Editor]
-
-# U2IP 1.2
-[u2ip][1.2][...][https://raw.githubusercontent.com/Katyusha-Project/katyusha-packages/main/packages/utils/u2ip-1.2.tar.gz][URL IP Geolocation Tool]
